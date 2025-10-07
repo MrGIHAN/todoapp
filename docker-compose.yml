@@ -24,7 +24,7 @@ services:
 
   backend:
     build:
-      context: ./backend
+      context: ./todo-backend
       dockerfile: Dockerfile
     container_name: todo-backend
     restart: always
