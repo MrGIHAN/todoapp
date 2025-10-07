@@ -23,6 +23,8 @@ A full-stack todo application built with React frontend, Spring Boot backend, an
 
 2. **Clone and Run**
    ```bash
+
+   cd todoapp
    # Build and start all services
    docker-compose up --build
    
